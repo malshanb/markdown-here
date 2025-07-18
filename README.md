@@ -1,4 +1,6 @@
-<img src="src/common/images/markdown_here_logo_test.png" alt="Markdown Here Logo" width="200">
+<div align="center">
+  <img src="src/common/images/markdown_here_logo_test.png" alt="Markdown Here Logo" width="500">
+</div>
 
 [**Visit the website.**](https://markdown-here.com)<br>
 [**Get it for Chrome.**](https://chrome.google.com/webstore/detail/elifhakcjgalahccnjkneoccemfahfoa)<br>
