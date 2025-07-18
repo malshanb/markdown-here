@@ -2,6 +2,9 @@
   <img src="src/common/images/markdown_here_logo_test.png" alt="Markdown Here Logo" width="500">
 </div>
 
+# Markdown-Here
+---
+
 [**Visit the website.**](https://markdown-here.com)<br>
 [**Get it for Chrome.**](https://chrome.google.com/webstore/detail/elifhakcjgalahccnjkneoccemfahfoa)<br>
 [**Get it for Firefox.**](https://addons.mozilla.org/firefox/addon/markdown-here/)<br>
