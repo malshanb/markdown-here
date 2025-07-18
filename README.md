@@ -4,7 +4,6 @@
 
 # Markdown-Here
 ---
-
 [**Visit the website.**](https://markdown-here.com)<br>
 [**Get it for Chrome.**](https://chrome.google.com/webstore/detail/elifhakcjgalahccnjkneoccemfahfoa)<br>
 [**Get it for Firefox.**](https://addons.mozilla.org/firefox/addon/markdown-here/)<br>
