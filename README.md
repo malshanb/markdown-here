@@ -1,4 +1,4 @@
-# ![]([https://raw.github.com/adam-p/markdown-here/master/src/common/images/icon48.png](https://github.com/malshanb/markdown-here/blob/master/src/common/images/markdown_here_logo_test.png))
+![Markdown Here Logo](src/common/images/markdown_here_logo_test.png)
 
 [**Visit the website.**](https://markdown-here.com)<br>
 [**Get it for Chrome.**](https://chrome.google.com/webstore/detail/elifhakcjgalahccnjkneoccemfahfoa)<br>
